@@ -1,1 +1,2 @@
 # Bell-s-Palsy-Severity-Detection-using-Deep-Learning
+This project, Bell’s Palsy Severity Detection in Eye, Eyebrows, and Mouth, aimed to develop a deep learning model using ResNet to classify Bell’s Palsy severity into Mild, Moderate, Moderate Severe, and Severe Palsy.Techniques like image rotation, shifting, and flipping bolstered the model’s resilience and adaptability, addressing the diverse ways Bell’s Palsy alters facial symmetry and expression.
